@@ -1,0 +1,46 @@
+
+h1, h2 {
+	color: Black ;
+	font-size: 26px;
+	font-family: 'Pacifico', cursive;
+}
+div	{
+padding: 50px;
+margin: 150px, auto;
+box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+border-radius: 8px;
+}
+
+body {
+	background-image: url('Photo.jpg')
+	background-color: beige;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+}
+p {font-size: 14px;
+	font-family: 'Dancing Script', cursive;
+}
+a {
+	text-decoration: none;
+	font-family: 'Permanent Marker', cursive;
+	color: Black;
+}
+a:hover {
+	color: brown;
+}
+ul{
+
+	list-style: none;
+	padding:0;
+}
+li{
+	font-size: 14px;
+	display: inline-block;
+}
+i{
+	font-size: 50px;
+	padding: 15px;
+}
+* {
+  box-sizing: border-box;
+}
